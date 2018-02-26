@@ -1,6 +1,6 @@
 # Public APIs [![Build Status](https://api.travis-ci.org/toddmotto/public-apis.svg)](https://travis-ci.org/toddmotto/public-apis)
 
-A collective list of free APIs for use in web development.
+A list of free APIs for use in web development.
 
 A public API for this project can be found [here](https://github.com/davemachado/public-api) - thanks to [DigitalOcean](https://www.digitalocean.com/) for helping us provide this service!
 
@@ -60,7 +60,7 @@ Please note a passing build status indicates all listed APIs are available since
 ### Animals
 API | Description | Auth | HTTPS | CORS | Link |
 |---|---|---|---|---|---|
-| Dogs | Based on the Stanford Dogs Dataset | No | Yes | Unknown | [Go!](https://dog.ceo/dog-api/) |
+| Dogs | Based on the Stanford Dogs Dataset. Woof! | No | Yes | Unknown | [Go!](https://dog.ceo/dog-api/) |
 | HTTPCat | Cat for every HTTP Status | No | Yes | Unknown | [Go!](https://http.cat/) |
 | IUCN | IUCN Red List of Threatened Species | `apiKey` | No | Unknown | [Go!](http://apiv3.iucnredlist.org/api/v3/docs) |
 | Movebank | Movement and Migration data of animals | No | Yes | Unknown | [Go!](https://github.com/movebank/movebank-api-doc) |
@@ -95,7 +95,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Iconfinder | Icons | `apiKey` | Yes | Unknown | [Go!](https://developer.iconfinder.com) |
 | Icons8 | Icons | `OAuth` | Yes | Unknown | [Go!](http://docs.icons8.apiary.io/#reference/0/meta) |
 | Noun Project | Icons | `OAuth` | No | Unknown | [Go!](http://api.thenounproject.com/index.html) |
-| Rijksmuseum | Art | `apiKey` | Yes | Unknown | [Go!](https://www.rijksmuseum.nl/en/api) |
+| Rijksmuseum (Amsterdam) | Art | `apiKey` | Yes | Unknown | [Go!](https://www.rijksmuseum.nl/en/api) |
 
 ### Books
 API | Description | Auth | HTTPS | CORS | Link |
